@@ -1,5 +1,9 @@
 ﻿using COMP003A.LectureActivity5_3;
 
+//Author: Victor Flores
+//Course:COMP-003A
+//Faculty: Jonathan Cruz
+//Purpose: Demonstrate abstract and interfaces oop
 namespace COMP003A.LectureActivity5_3
 {
     internal class Program
